@@ -145,6 +145,8 @@ push打卡测试一下
 ### 修改打卡时间
 
 修改[python-app.yml](./.github/workflows/python-app.yml)的cron（具体设置方法可以使用搜索引擎搜索）
+cron是按照国际标准时间运行设置16是北京时间0点
+参考[时间设置](https://datetime360.com/cn/utc-beijing-time/)来调整时间
 
-### 修改消息推送方式s
+### 修改消息推送方式
 
